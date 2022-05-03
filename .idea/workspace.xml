@@ -46,7 +46,7 @@
       <workItem from="1651528281472" duration="1887000" />
       <workItem from="1651530597802" duration="1156000" />
       <workItem from="1651560520108" duration="700000" />
-      <workItem from="1651561876280" duration="638000" />
+      <workItem from="1651561876280" duration="1335000" />
     </task>
     <servers />
   </component>
@@ -64,7 +64,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="branch-1" />
                       </list>
                     </value>
                   </entry>
