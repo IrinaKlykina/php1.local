@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54796992-c808-462c-8879-5b06be687e54" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php1.local.php" beforeDir="false" afterPath="$PROJECT_DIR$/php1.local.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yii2.local" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -48,6 +49,12 @@
       <workItem from="1651530597802" duration="1156000" />
       <workItem from="1651560520108" duration="700000" />
       <workItem from="1651561876280" duration="1643000" />
+      <workItem from="1653416934950" duration="5000" />
+      <workItem from="1653417106486" duration="2000" />
+      <workItem from="1653594324135" duration="22000" />
+      <workItem from="1653594538589" duration="38000" />
+      <workItem from="1653935421881" duration="2808000" />
+      <workItem from="1654371405119" duration="534000" />
     </task>
     <servers />
   </component>
